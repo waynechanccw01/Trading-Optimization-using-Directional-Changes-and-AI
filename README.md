@@ -1,0 +1,1 @@
+# Trading-Optimization-using-Directional-Changes-and-AI
