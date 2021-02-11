@@ -1,5 +1,5 @@
 # Trading-Optimization-using-Directional-Changes-and-AI
-### Objective: To demonstrate the DC trading strategies can produce at least 12% yearly returns and formulate the best DC trading strategy by comparing the results between different optimization algorithms
+#### Objective: To demonstrate the DC trading strategies can produce at least 12% yearly returns and formulate the best DC trading strategy by comparing the results between different optimization algorithms
 
 Most of the financial forecasting methods use a traditional physical time scale, which is taken at fixed intervals (interval-based scale). In this project, an intrinsic time (event-based scale) using Directional Changes (DC) is applied to focus only on important points that a crucial event happened, filtering out other irrelevant price details and noise. In addition, this event-based scale is suitable to use in high frequency data. Using a traditional interval-based scale to study price fluctuations makes the flow of physical time discontinuous, so important price movements happening in several minutes cannot be captured. However, the intrinsic time using DC records all the key events in the market. In this project, we will take advantage of directional change paradigm to formulate different DC trading strategies.
 
